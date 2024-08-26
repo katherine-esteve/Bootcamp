@@ -1,0 +1,73 @@
+/* Ensure all elements align correctly in the navbar */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Style for the logo container */
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: left; /* Left-align image within logo div */
+}
+
+/* Style for the nav element */
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+/* Center the unordered list within the nav container */
+nav ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Style list items in the navbar and footer */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px; /* Optional padding for spacing */
+}
+
+/* Style the heroImg section */
+.heroImg {
+    /* You can add styles here for the heroImg section if needed */
+}
+
+/* Style the content div within the heroImg section */
+.content {
+    text-align: left; /* left-align text and button */
+}
+
+/* Style images in the heroImg section */
+.hero img {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    align-items: right;
+}
+
+/* Style the button */
+button {
+    margin-top: 10px; /* Spacing above the button */
+    padding: 10px 20px; /* Add padding to the button */
+    font-size: 16px; /* Adjust font size */
+}
+
+/* Style the footer */
+footer {
+    text-align: left; /* left-align footer content */
+    padding: 20px 0; /* Add padding to the top and bottom */
+}
+
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; /* Remove default list styling */
+}
+
+/* Style list items in the footer */
+footer li {
+    display: inline-block;
+    padding: 0 10px; /* Optional padding for spacing */
+}
