@@ -1,5 +1,5 @@
 
-/* From Homework Section Below */
+/* Code from Homework Instructions Below */
 
 .inline-block {
     display: inline-block;
@@ -9,11 +9,11 @@
 .logo {
     width: 23%;
     padding: 1%;
-    text-align: center; 
+    text-align: center; /* Delete this line? */
 }
 
 nav {
-    width: 73%;
+    width: 70%;
     padding: 1%;
 
     /* Extra Styling Below */
@@ -25,7 +25,7 @@ nav ul {
     margin-left: auto;
 
     /* Extra Styling Below */
-    padding: 10px
+    padding: px
 } 
 
 
@@ -37,9 +37,6 @@ nav ul {
 .content {
     width: 500px;
     margin: 0 auto;
-
-    /* Extra Styling Below */
-    justify-content: center; /* WHY NOT CENTERED? */
 } 
 
 
